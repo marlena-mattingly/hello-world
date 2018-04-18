@@ -1,3 +1,3 @@
 # hello-world
-Test Repository
+Test Repository.
 This is a test.
